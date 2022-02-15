@@ -17,7 +17,7 @@ keep==2.10
 lxml==4.6.3
 pycodestyle==2.6.0
 pycparser==2.20
-PyGithub==1.54
+PyGithub
 Pygments==2.7.4
 PyJWT==1.7.1
 pyquery==1.4.3
